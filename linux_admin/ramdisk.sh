@@ -29,11 +29,3 @@ chmod 777 $MOUNTPT
 echo "\"$MOUNTPT\" now available for user."
 exit 0
 
-
-
-
-
-
-
-
-
